@@ -79,6 +79,13 @@ The model achieves the following Average Precision (AP) on the KITTI validation 
 - RCNN Recall @ IoU 0.5: 87.83%
 - RCNN Recall @ IoU 0.7: 61.45%
 
+### Testing on Image result
+
+<img width="1182" height="371" alt="image" src="https://github.com/user-attachments/assets/e439e12f-c48b-45a4-9fd0-89f1c4d33f38" />
+<img width="1182" height="371" alt="image" src="https://github.com/user-attachments/assets/fc264b5c-8abe-49e1-b26e-6a8c16f683c1" />
+<img width="1182" height="370" alt="image" src="https://github.com/user-attachments/assets/be049774-d32c-4a0d-8c45-a9e6fae1c50e" />
+<img width="1182" height="372" alt="image" src="https://github.com/user-attachments/assets/b5ea57da-0a3a-4343-98eb-1c6ca9103c93" />
+
 
 ## Acknowledgments
 
