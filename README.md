@@ -147,22 +147,3 @@ The notebook is organized into the following sections:
 ## License
 
 This project follows the license terms of the OpenPCDet framework.
-
-## References
-
-```bibtex
-@inproceedings{lang2019pointpillars,
-  title={PointPillars: Fast encoders for object detection from point clouds},
-  author={Lang, Alex H and Vora, Sourabh and Caesar, Holger and Zhou, Lubing and Yang, Jiong and Beijbom, Oscar},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={12697--12705},
-  year={2019}
-}
-
-@misc{openpcdet2020,
-  title={OpenPCDet: An Open-source Toolbox for 3D Object Detection from Point Clouds},
-  author={OpenPCDet Development Team},
-  howpublished={\url{https://github.com/open-mmlab/OpenPCDet}},
-  year={2020}
-}
-```
